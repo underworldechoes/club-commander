@@ -1837,6 +1837,27 @@
             alert('Error initializing app. Please check the console.');
             console.error('Initialization error:', e);
         }
+         // paste this new code here 👇
+document.getElementById('auth-toggle').addEventListener('click', () => {
+  document.getElementById('auth-options').classList.toggle('hidden');
+});
+
+document.getElementById('show-login').addEventListener('click', () => {
+  document.getElementById('auth-options').classList.add('hidden');
+  document.getElementById('auth-form').classList.remove('hidden');
+  document.getElementById('auth-submit').onclick = login;
+});
+
+document.getElementById('show-register').addEventListener('click', () => {
+  document.getElementById('auth-options').classList.add('hidden');
+  document.getElementById('auth-form').classList.remove('hidden');
+  document.getElementById('auth-submit').onclick = register;
+});
+</script>
+</body>
+</html>
+
     </script>
 </body>
+
 </html>
