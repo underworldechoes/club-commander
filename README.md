@@ -72,12 +72,9 @@ README.md                   # Project documentation
    https://yourproject.web.app
    ```
 
-## 📸 Screenshots
-*(Add screenshots/gifs of your app here)*
-
 ## 📜 License
 This project is licensed under the MIT License — feel free to use and modify it.
 
 ---
 
-👨‍💻 Built with ❤️ using Firebase + TailwindCSS
+
