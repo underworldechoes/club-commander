@@ -11,7 +11,7 @@ It helps clubs manage events, teams, members, and tasks — with features like t
 - ⏰ Deadline tracking & overdue task alerts
 - 🏆 Member leaderboard with points system
 - 📊 Work history tracking
-- 🤖 Built-in AI assistant for quick suggestions (frontend demo)
+- 🤖 Built-in AI assistant for quick suggestions (Under devlopment / not yet compleated)
 
 ## ⚙️ Tech Stack
 - **Frontend:** HTML, TailwindCSS, JavaScript
